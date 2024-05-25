@@ -1,0 +1,5 @@
+while true # start an infinite loop
+do
+    echo ''python3 m.py && python3 m.py'' # enter "python3 m.py && python3 m.py"
+    sleep 9 # wait for 9 second
+done # end the loop
